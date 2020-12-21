@@ -1,3 +1,3 @@
-# text_recognition
+# text recognition
 
 Module for recognition handwritten text
